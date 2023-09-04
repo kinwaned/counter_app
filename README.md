@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![app](https://github.com/kinwaned/counter_app/assets/75176487/7c3d0d61-f610-4d3f-995c-4e099d9b80fa)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
